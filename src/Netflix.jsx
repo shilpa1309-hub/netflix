@@ -21,9 +21,12 @@ function Netflix() {
   }
   const containerDivStyle = {
     background: "#000",
+    
+   
+  
   }
   const [slideshowData, setSlideShowData] = useState([])
-
+  
  
   
 
